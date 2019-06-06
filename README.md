@@ -1,1 +1,3 @@
-This repository contains the default nginx configuration file.
+# DevOps Rebrain module Basics
+
+В данном репозитории на находятс ответы на задания онлайн практикума DevOps Rebrain.
